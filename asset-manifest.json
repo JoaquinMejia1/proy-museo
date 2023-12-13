@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proy-museo/static/css/main.f87b955e.css",
+    "main.js": "/proy-museo/static/js/main.178b3e24.js",
+    "static/js/787.0a40d4fb.chunk.js": "/proy-museo/static/js/787.0a40d4fb.chunk.js",
+    "static/media/pin.jpg": "/proy-museo/static/media/pin.d7f2e7d5307f993bbe70.jpg",
+    "static/media/caballo.jpg": "/proy-museo/static/media/caballo.ec01abeaf53b18fe727c.jpg",
+    "static/media/prueba.jpg": "/proy-museo/static/media/prueba.68b3c1f8ecc759c6dc10.jpg",
+    "static/media/lule.jpg": "/proy-museo/static/media/lule.bcf204dfd59ac3c769f0.jpg",
+    "static/media/CentraNo2-BoldItalic-BF646c269058bde.ttf": "/proy-museo/static/media/CentraNo2-BoldItalic-BF646c269058bde.baa59654786589f7f079.ttf",
+    "static/media/CentraNo2-Extrabold-BF646c269067e76.ttf": "/proy-museo/static/media/CentraNo2-Extrabold-BF646c269067e76.f234105bd9a6633e4a7b.ttf",
+    "static/media/CentraNo2-Bold-BF646c26904e7ce.ttf": "/proy-museo/static/media/CentraNo2-Bold-BF646c26904e7ce.b61fc644acf0c61b7549.ttf",
+    "index.html": "/proy-museo/index.html",
+    "main.f87b955e.css.map": "/proy-museo/static/css/main.f87b955e.css.map",
+    "main.178b3e24.js.map": "/proy-museo/static/js/main.178b3e24.js.map",
+    "787.0a40d4fb.chunk.js.map": "/proy-museo/static/js/787.0a40d4fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87b955e.css",
+    "static/js/main.178b3e24.js"
+  ]
+}
